@@ -25,7 +25,7 @@ IDE ([IntelliJ IDEA](https://www.jetbrains.com/idea/) for example) with configur
 - Dependency Injection.
 - JDBC.
 - Java Web.
-- SQL.
+- [MySQL](https://www.mysql.com/) DBMS.
 - JSP with HTML and JSTL markup.
 ### Credits
 - [Bohdan Chupika](https://github.com/boroda4436)
